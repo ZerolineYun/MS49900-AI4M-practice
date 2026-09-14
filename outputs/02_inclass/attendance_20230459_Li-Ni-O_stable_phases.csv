@@ -1,0 +1,12 @@
+point,formula,material_id,e_hull_eV_atom
+1,Li,mp-1018134-GGA,0.0
+2,Ni,mp-23-GGA,0.0
+3,Li2O,mp-1960-GGA,0.0
+4,Li2O2,mp-841-GGA,0.0
+5,Li2NiO3,mp-556550-GGA+U,0.0
+6,LiNiO2,mp-2348641-GGA+U,0.0
+7,NiO,mp-19009-GGA+U,0.0
+8,Li(NiO2)2,mp-774941-GGA+U,0.0
+9,Ni3O4,mp-656887-GGA+U,0.0
+10,LiO8,mp-1235059-GGA,0.0
+11,O2,mp-12957-GGA,0.0
